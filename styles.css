@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.brand-btn {
+  padding: 5px 10px;
+}
+
+.brand-border-r {
+  border-radius: 6px;
+}
+
+.brand-color-primary {
+  background-color: gray;
+}
+
+.brand-color-secondary {
+  background-color: rosybrown;
+}
